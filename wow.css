@@ -1,0 +1,135 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.boshi{
+	background: rgba(0, 0, 0, 0.5);
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.item-header{
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	height: 70px;
+	justify-content: flex-start;
+}
+
+ .itemla{
+ 	width: 400px;
+ 	height: 200px;
+ 	display: -webkit-flex;
+ 	display: -moz-flex;
+ 	display: -ms-flex;
+ 	display: -o-flex;
+ 	display: flex;
+ 	justify-content: center;
+ 	align-items: center;
+ 	flex-direction: column;
+ 	position: absolute;
+ 	top: 120px;
+ 	right: 250px;
+ }
+
+ .headerr{
+ 	width: 100%;
+ 	height: 400px;
+ 	background: brown;
+ 	position: relative;
+ }
+
+ .x{
+ 	display: -webkit-flex;
+ 	display: -moz-flex;
+ 	display: -ms-flex;
+ 	display: -o-flex;
+ 	display: flex;
+ 	align-items: center;
+ 	justify-content: center;
+ }
+
+ .x span{
+ 	margin-left: 15px;
+ }
+ .images-header{
+ 	width: 100%;
+ 	height: 60px;
+ 	display: flex;
+ 	flex-direction: row;
+ }
+
+ .images-header img {
+ 	width: 50%;
+ 	height: 100%;
+ }
+
+ .img{
+ 	position: absolute;
+ 	top: 0px;
+ 	left: 300px;
+
+ }
+
+ .center-div{
+ 	width: 300px;
+ 	height: 150px;
+
+ }
+
+ .center{
+ 	width: 100%;
+ 	height: 600px;
+ 	position: relative;
+
+ }
+
+ .center-img{
+ 	position: absolute;
+ 	top: 200px;
+ 	right: 360px;
+ }
+
+ .center-div{
+ 	position: absolute;
+ 	left: 30%;
+ 	top: 330px;
+ }
+
+  .center2{
+ 	width: 100%;
+ 	height: 600px;
+ 	position: relative;
+
+ }
+
+ .center-img2{
+ 	position: absolute;
+ 	top: 200px;
+ 	right: 300px;
+ 	top: 0;
+ 	left: 350px;
+ }
+
+ .center-div2{
+ 	position: absolute;
+ 	right: 30%;
+ 	top: 120px;
+ }
+  .center-div2{
+ 	width: 300px;
+ 	height: 150px;
+
+ }
+
+ .x1, .x2{
+ 	display: -webkit-flex;
+ 	display: -moz-flex;
+ 	display: -ms-flex;
+ 	display: -o-flex;
+ 	display: flex;
+ 	flex-direction: column;
+ 	align-items: center;
+ 	justify-content: center;
+ }
